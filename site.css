@@ -1,0 +1,15 @@
+.navbar {
+     font-family: YOUR FONT HERE;
+}
+.navbar-brand {
+     /* Used for image */
+     padding-top: 0px;
+     padding-bottom: 0px;
+}
+.navbar-brand > img {
+     /* Used for image */
+     height: 100%;
+     padding: 7px;
+     width: auto;
+     display: inline;
+}
