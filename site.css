@@ -1,7 +1,14 @@
-.navbar {
-OUR FONT HERE;unlock : Y
+.page-top {
+     padding-top:75px;
 }
-     .navbar-brand {
+.page-top > h1 {
+     font-size: 4em;
+}
+.page-top > p {
+     font-size: 1.5em;
+}
+
+.navbar-brand {
      /* Used for image */
      padding-top: 0px;
      padding-bottom: 0px;
